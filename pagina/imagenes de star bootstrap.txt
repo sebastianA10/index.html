@@ -1,0 +1,12 @@
+cabaña:
+https://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/cabin.png
+pastel:
+https://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/cake.png
+circo:
+https://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/circus.png
+conrol:
+https://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/game.png
+caja fuerte:
+https://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/safe.png
+submarino:
+https://startbootstrap.github.io/startbootstrap-freelancer/assets/img/portfolio/submarine.png

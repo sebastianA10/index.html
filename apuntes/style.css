@@ -1,0 +1,177 @@
+#titulo {
+    color:blueviolet;
+
+}
+
+p.perfil{
+    border-color:blue;
+    /* border: 2px red solid;*/
+    border-style:solid ;
+    border-radius: 15px;
+    
+    color:blueviolet;
+}
+
+p.titulo{
+    color:black;
+}
+
+div p {
+    color:aquamarine
+}
+
+div h2{
+
+    font-family: "baskerville old face";
+}
+
+div h3, div h2{
+
+    font-family:"algerian";
+}
+.color{
+    color:#ccc;
+}
+#fondo {
+     background-color:rgba(0,0,0,3);
+     
+
+    
+    
+    background:#fff url(foto.jpg) no-repeat center bottom/ 100px 500px
+
+}
+
+.margen{
+    background-color: chocolate;
+    margin: 15px;
+    padding: 30px 15px;
+    border: solid 1px black;
+    height: 70px;
+    width: 50px;
+    overflow:scroll;
+    outline: 1px solid red;
+
+}
+
+.parrafo{
+    font-family: algerian;
+    text-align: justify;
+    text-decoration:underline;
+    text-shadow:2px 3px 5px gray ;
+}
+
+a:link{ 
+    colo:blueviolet;
+    
+   
+}
+ a:visited{
+    color:blue;
+    
+    
+ }
+
+ a:hover{
+    color:red
+    
+    
+ }
+
+ a:active{
+    color:aqua;
+    
+    
+ }
+
+ ul{
+    background-color:cyan;
+    
+    list-style-type:lower-roman;
+    /*padding-left: 0;*/
+    
+ }
+ table{
+    width: 50%;
+    border-collapse:collapse ;
+ }
+ th,td{
+    border:solid 1px cyan;
+    padding: 15px;
+ }
+
+ th{
+    background-color:green;
+    color:red;
+    text-align: left;
+
+ }
+ 
+ tr:nth-child(even){
+    background-color: aliceblue;
+
+ }
+ tr:nth-child(oven){
+    background-color: antiquewhite;
+ }
+ tr:hover{
+    background-color: gray;
+    cursor:pointer ;
+
+ }
+ span{
+    display: block;
+    /*display:none;*/
+    /*visibility: hidden;*/
+    width: 300px;
+    background-color: tomato;
+    border-radius: 15px ;
+ }
+.inline{
+    display: none;
+}
+#position{
+    display:block;
+    position:sticky;
+    /*con fixed se obtine una vista segucomo te muevas en el explorador" si tu temueves el tambien lo ará"*/
+    left:20px;
+    /*para bajarlo toca con top asi talves pueda quedar en las lineas*/
+    top: 5px;
+    background-color: tomato ;
+    width: 300px;
+    border-radius: 20px;
+
+}
+.left{
+    float: left;
+    width: 100px;
+    height:100px;
+    border-radius: 100%;
+    
+    
+}
+.right{
+    float: right;
+}
+.container{
+    height: 200px;
+}
+.colum{
+    border: solid 1px #ddd;
+    border-radius: 5px;
+    margin: 0 ;
+    padding: 10px 0px ;
+    width: 10%;
+}
+
+.inline-block{
+    display: inline-block;
+    height: 55px;
+    background-color: red;
+}
+.center{
+    text-align: center;
+    width: 200px;
+    margin: 0 auto;
+    background-color: aqua;
+}
